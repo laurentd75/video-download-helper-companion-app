@@ -1,3 +1,8 @@
+⚠️⚠️⚠️ VDH CoApp is not being developed anymore - VDH v10 doesn't require a companion. ⚠️⚠️⚠️
+
+---
+
+
 ⚠️ This is a developer dedicated place. If you are a user and need help with Video DownloadHelper and/or its companion app:
 
 - you can find [all relevant links here](https://github.com/aclap-dev/video-downloadhelper).
